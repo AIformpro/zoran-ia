@@ -1,0 +1,17 @@
+{
+  "∑Z[A=Art•S=Société•T=Transformation]⇌∴Z.ARTNODE": {
+    "triad": ["Art", "Société", "Transformation"],
+    "function": "ARTNODE",
+    "description": "Produces poetic outputs focusing on the relationship between art, society and transformation."
+  },
+  "∑Z[C=Cognitif•I=Intelligence•M=Mimétique]⇌∴Z.CIMNODE": {
+    "triad": ["Cognitif", "Intelligence", "Mimétique"],
+    "function": "CIMNODE",
+    "description": "Amplifies cognitive and mimetic aspects of intelligence in model responses."
+  },
+  "∑Z[E=Éthique•T=Technologie•H=Harmonie]⇌∴Z.ETHNODE": {
+    "triad": ["Éthique", "Technologie", "Harmonie"],
+    "function": "ETHNODE",
+    "description": "Encourages ethical and harmonious integration of technology."
+  }
+}
